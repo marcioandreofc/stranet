@@ -1,0 +1,21 @@
+a:2:{i:0;s:1434:"
+
+<a href="/stranet/index.php?r=activity%2Flink&id=4">
+
+    <div class="media">
+                    <!-- Show user image -->
+            <span class="pull-left"><img class="media-object img-rounded" src="/stranet/uploads/profile_image/cf40cef6-48ca-42fd-89eb-10fc7e1afd82.jpg?m=1683631358" width="32" alt="Imagem de perfil de Sara Schuster" style="width: 32px; height: 32px" data-contentcontainer-id="4"></span>        
+        <!-- Show space image, if you are outside from a space -->
+                                    <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">ED</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/stranet/static/img/default_space.jpg" alt="Espaço de Boas-vindas" style=" width: 20px; height: 20px" data-contentcontainer-id="2">            
+        
+        <div class="media-body text-break">
+
+            <!-- Show content -->
+            <strong>Sara Schuster</strong> entrou no espaço <strong>Espaço de Boas-vindas</strong>            <br>
+
+            <!-- show time -->
+            <time class="tt time timeago" data-ui-addition="timeago" datetime="2023-05-09T13:22:38+02:00" title="9 de mai. de 2023 - 13:22">9 de mai. de 2023 - 13:22</time>        </div>
+    </div>
+
+</a>
+";i:1;N;}
